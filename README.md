@@ -1,6 +1,6 @@
 # The End Game
 
-![image](https://user-images.githubusercontent.com/70104446/152639467-ed06b793-268e-4610-b9ed-6d2e2406237a.png)
+<img src="https://user-images.githubusercontent.com/70104446/152639467-ed06b793-268e-4610-b9ed-6d2e2406237a.png" width="1000"  />
 
 The End Game is a desktop game inspired by a tower defense game. This game was implemented by using JavaFX with a core idea of object-oriented programming.
 
